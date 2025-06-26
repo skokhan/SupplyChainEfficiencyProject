@@ -15,15 +15,16 @@ Analyze supply chain performance using a real-world dataset. The project integra
 
 ## Project Components
 
-| Stage                  | Tools Used                        | Files                                                |
-|------------------------|-----------------------------------|------------------------------------------------------|
-| Data Processing        | Excel + Power Query               | `excel_powerquery/data_transform_powerquery.xlsx`    |
-| Visualization          | Power BI                          | `powerbi_dashboard/dataco_dashboard.pbix`            |
-| Automation             | Python (pandas, openpyxl)         | `automation/automate_refresh.py`                     |
-| EDA & KPIs             | Jupyter Notebook                  | `notebooks/01_EDA.ipynb`, `02_KPI_visuals.ipynb`     |
-| Machine Learning       | scikit-learn, Prophet, XGBoost    | `ml/01_LateDeliveryPrediction.ipynb` etc.            |
-| Generative AI          | OpenAI API / LLM prompt templates | `gen_ai/generate_insight_descriptions.py`            |
-| Reporting & Slides     | Canva / Google Slides / Markdown  | `reports/summary_report.pdf`, `presentation_slides.pdf` |
+| Stage                  | Tools Used                        | Folders                                |
+|------------------------|-----------------------------------|----------------------------------------|
+| Data Processing        | Excel + Power Query               | `excel_powerquery/`                    |
+| Visualization          | Power BI                          | `powerbi_dashboard/`                   |
+| Automation             | Python (pandas, openpyxl)         | `automation/`                          |
+| EDA & KPIs             | Jupyter Notebooks                 | `notebooks/`                           |
+| Machine Learning       | scikit-learn, XGBoost, Prophet    | `ml/`                                  |
+| Generative AI          | OpenAI API, prompt engineering    | `gen_ai/`                              |
+| Reporting & Presentation | Canva, Google Slides, Markdown  | `reports/`                             |
+
 
 ## Key Metrics Analyzed
 
