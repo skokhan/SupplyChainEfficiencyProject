@@ -67,6 +67,7 @@ Analyze supply chain performance using a real-world dataset. The project integra
 | `excel_powerquery/`  | Power Query workbook                          |
 | `powerbi_dashboard/` | Interactive dashboard file (.pbix)            |
 | `notebooks/`         | Data analysis and visualization notebooks     |
+| `automation/`        | Python scripts for ETL and dashboard refresh  |
 | `ml/`                | Machine learning models and predictions       |
 | `gen_ai/`            | Insight generation scripts and prompts        |
 | `reports/`           | Final report, slides, screenshots             |
