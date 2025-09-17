@@ -2,7 +2,7 @@
 
 ## Objective
 
-Analyze supply chain performance using a real-world dataset. The project integrates Excel (Power Query), Power BI, Python automation, machine learning, and generative AI to deliver a complete analytics solution with actionable insights.
+Analyze supply chain performance using a real-world dataset. The project integrates Excel, Power Query, Power BI, Python automation, machine learning, and generative AI to deliver a complete analytics solution with actionable insights.
 
 ## Tech Stack
 
