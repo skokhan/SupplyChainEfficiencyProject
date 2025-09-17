@@ -6,24 +6,24 @@ Analyze supply chain performance using a real-world dataset. The project integra
 
 ## Tech Stack
 
-- **Excel + Power Query**: Data cleansing, transformation;  
-- **Power BI**: Interactive dashboards and KPI tracking;  
+- **Microsoft Excel + Power Query**: Data cleansing, transformation;  
+- **Microsoft Power BI**: Interactive dashboards and KPI tracking;  
 - **Python (pandas, matplotlib, scikit-learn)**: Data automation, analysis, machine learning;  
 - **Jupyter Notebooks**: Exploratory Data Analysis (EDA), visualizations;  
-- **Copilot(Power BI), OpenAI API (LLM)**: Automated insight generation and reporting;  
+- **Microsoft Copilot(Power BI), OpenAI API (LLM)**: Automated insight generation and reporting;  
 - **GitHub Codespaces**: Cloud-based project development and collaboration.
 
 ## Project Components
 
 | Stage                  | Tools Used                        | Folders                                |
 |------------------------|-----------------------------------|----------------------------------------|
-| Data Processing        | Excel + Power Query               | `excel_powerquery/`                    |
-| Visualization          | Power BI                          | `powerbi_dashboard/`                   |
+| Data Processing        | MS Excel + Power Query               | `excel_powerquery/`                    |
+| Visualization          | MS Power BI                          | `powerbi_dashboard/`                   |
 | Automation             | Python (pandas, openpyxl)         | `automation/`                          |
 | EDA & KPIs             | Jupyter Notebooks                 | `notebooks/`                           |
 | Machine Learning       | scikit-learn, XGBoost, Prophet    | `ml/`                                  |
 | Generative AI          | OpenAI API, prompt engineering    | `gen_ai/`                              |
-| Reporting & Presentation | Canva, PowerPoint  | `reports/`                             |
+| Reporting & Presentation | Canva, MS PowerPoint  | `reports/`                             |
 
 
 ## Key Metrics Analyzed
