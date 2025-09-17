@@ -10,7 +10,7 @@ Analyze supply chain performance using a real-world dataset. The project integra
 - **Power BI**: Interactive dashboards and KPI tracking;  
 - **Python (pandas, matplotlib, scikit-learn)**: Data automation, analysis, machine learning;  
 - **Jupyter Notebooks**: Exploratory Data Analysis (EDA), visualizations;  
-- **OpenAI API (LLM)**: Automated insight generation and reporting;  
+- **Copilot(Power BI), OpenAI API (LLM)**: Automated insight generation and reporting;  
 - **GitHub Codespaces**: Cloud-based project development and collaboration.
 
 ## Project Components
@@ -23,7 +23,7 @@ Analyze supply chain performance using a real-world dataset. The project integra
 | EDA & KPIs             | Jupyter Notebooks                 | `notebooks/`                           |
 | Machine Learning       | scikit-learn, XGBoost, Prophet    | `ml/`                                  |
 | Generative AI          | OpenAI API, prompt engineering    | `gen_ai/`                              |
-| Reporting & Presentation | Canva, Google Slides, PowerPoint  | `reports/`                             |
+| Reporting & Presentation | Canva, PowerPoint  | `reports/`                             |
 
 
 ## Key Metrics Analyzed
