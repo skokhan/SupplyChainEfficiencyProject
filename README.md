@@ -6,7 +6,7 @@ Analyze supply chain performance using a real-world dataset. The project integra
 
 ## Tech Stack
 
-- **Excel + Power Query**: Data cleaning, pivot tables, transformation;  
+- **Excel + Power Query**: Data cleansing, transformation;  
 - **Power BI**: Interactive dashboards and KPI tracking;  
 - **Python (pandas, matplotlib, scikit-learn)**: Data automation, analysis, machine learning;  
 - **Jupyter Notebooks**: Exploratory Data Analysis (EDA), visualizations;  
