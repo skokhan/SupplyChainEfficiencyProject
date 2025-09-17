@@ -23,7 +23,7 @@ Analyze supply chain performance using a real-world dataset. The project integra
 | EDA & KPIs             | Jupyter Notebooks                 | `notebooks/`                           |
 | Machine Learning       | scikit-learn, XGBoost, Prophet    | `ml/`                                  |
 | Generative AI          | OpenAI API, prompt engineering    | `gen_ai/`                              |
-| Reporting & Presentation | Canva, Google Slides, Markdown  | `reports/`                             |
+| Reporting & Presentation | Canva, Google Slides, PowerPoint  | `reports/`                             |
 
 
 ## Key Metrics Analyzed
@@ -35,6 +35,7 @@ Analyze supply chain performance using a real-world dataset. The project integra
 - Customer Segments and Patterns;  
 - Order Volume Trends and Forecasting.
 
+<!--
 ## Key Insights
 
 - Late deliveries are mostly linked to Standard Class shipping from one specific warehouse;  
@@ -79,3 +80,4 @@ Analyze supply chain performance using a real-world dataset. The project integra
 2. Install dependencies:
 ```bash
 pip install -r requirements.txt
+-->
