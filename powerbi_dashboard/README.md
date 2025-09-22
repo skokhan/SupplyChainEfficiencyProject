@@ -2,7 +2,7 @@
 
 This folder contains visual documentation of the Power BI solution developed to analyze supply chain data. It includes:
 
-- **Semantic Model:** Visuals of the data model showing relationships, measures, and structure used for reporting.
+- **Semantic Model:** Visual of the data model showing relationships, measures, and structure used for reporting.
 - **Paginated Dashboard:** Screenshots of interactive dashboards designed for print-ready reporting and detailed KPI tracking.
 
 ## Dashboard Sections:
