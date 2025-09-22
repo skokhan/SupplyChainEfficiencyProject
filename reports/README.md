@@ -1,4 +1,4 @@
-# Report and Presentations
+# Reports and Presentations
 
 This folder contains key deliverables and visual documentation used to summarize and present the findings of the project:
 
