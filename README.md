@@ -1,4 +1,4 @@
-# Supply Chain Efficiency Analytics Project
+# Supply Chain Efficiency Project
 
 ## Objective
 
