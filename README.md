@@ -15,7 +15,7 @@ This project integrates the strengths of Excel, Power Query, and Power BI to bui
 | Stage                  | Tools Used                        | Folders                                |
 |------------------------|-----------------------------------|----------------------------------------|
 | Data Processing        | MS Excel + Power Query               | `excel_powerquery/`                    |
-| Visualization          | MS Power BI                          | `powerbi_dashboard/`                   |
+| Dashboard & Visualization | MS Power BI                          | `powerbi_dashboard/`                   |
 | Reporting & Presentation | MS PowerPoint, PDF                 | `reports/`                             |
 
 <!--
