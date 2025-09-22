@@ -7,8 +7,82 @@ This project delivers a comprehensive, data-driven analysis of global supply cha
 This project integrates the strengths of Excel, Power Query, and Power BI to build a scalable and insightful analytics solution.
 
 ## Tech Stack
+
 - **Microsoft Excel + Power Query**: Initial data preparation and structuring, data cleansing, profiling, and transformation;
 - **Microsoft Power BI**: Semantic modeling, interactive dashboard, KPI tracking, and dynamic visualizations.
+
+## Key Metrics Analyzed
+
+### Supply Chain & Logistics:
+- Total Sales ($)
+- Total Profit ($)
+- Profit Margin (%)
+- Total Orders (count)
+- Average Delivery Time (days)
+- Total Quantity Sold (units)
+- On-Time Delivery Rate (%)
+- Advance Shipping Rate (%)
+- Late Delivery Rate (%)
+- Canceled Orders (count)
+- Fraud Detected Orders (count)
+
+### Sales & Profitability:
+- Total Discounts Given ($)
+- Average Order Discount (%)
+- Sales by Region and Customer Segment ($)
+- Profit by Region and Customer Segment ($)
+- Impact of Discounts on Sales and Profit (trend analysis)
+
+### Customer Analytics:
+- Total Customers (count)
+- New Customers (count)
+- Returning Customers (count)
+- Customer Lifetime (CLT) (months)
+- Purchase Frequency (per customer)
+- Customer Retention Rate (%)
+- Average Revenue Per User (ARPU) ($)
+- Average Order Value ($)
+
+### Product Analytics
+- Total Products (count)
+- Average Product Price ($)
+- Average Selling Price ($)
+- Average Discount per Product ($)
+- Sales Trend by Price Segment ($)
+- Top Products and Categories by Sales/Profit ($)
+
+### Risk & Geography:
+- Orders by Delivery Status (on-time, late, canceled, fraud)
+- Delays by Region (count, %)
+- Fraud Cases by Region/Shipping Mode (count)
+- Completed Orders (count)
+
+## Key Insights
+
+### Supply Chain Performance
+- On-time delivery remains critically low at 18%, with consistent late delivery rates across all years (~55%);
+- Western Europe has the highest order volume and delay rate (56%), making it a priority for operational review;
+- Same Day shipping performs best (50% on-time, 0.5 days avg delivery), while Standard Class is least efficient (19% on-time, 38% delay rate).
+
+### Sales & Profitability
+- Europe leads in profitability, especially Western Europe;
+- Eastern Europe and Home Office segments underperform significantly;
+- Discounting strategies show mixed results—higher discounts do not consistently improve profit and may erode margins.
+
+### Customer Behavior
+- Consumer segment dominates (52%), followed by Corporate (30%) and Home Office (18%);
+- 2024 saw highest customer retention, despite lower purchase frequency;
+- Caguas, Puerto Rico is a standout market for customer loyalty.
+
+### Product Insights
+- Low- and mid-priced products drive most sales;
+- High-priced products have niche demand and limited volume;
+- Discounts must be balanced to avoid undermining profitability.
+
+### Risk & Geography
+- Latin America shows high fraud activity, especially under Standard Class shipping;
+- Western Europe is a high-risk region for delivery delays;
+- February and March show operational anomalies requiring deeper investigation.
 
 ## Project Components
 
