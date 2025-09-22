@@ -1,3 +1,3 @@
-# Excel & Power Query
+# Microsoft Excel & Power Query
 
-- Used for initial data cleaning, transformation, aggregation, and preparing data for further analysis.
+- Used for initial data cleansing, transformation, aggregation, and preparing data for further analysis.
