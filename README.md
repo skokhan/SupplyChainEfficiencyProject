@@ -1,5 +1,24 @@
-# Supply Chain Efficiency Project
+# Supply Chain Efficiency Analytics Project
 
+## Objective
+
+This project delivers a comprehensive, data-driven analysis of global supply chain performance using a real-world dataset. It provides actionable insights into logistics performance, sales trends, customer behavior, and operational risks — empowering data-driven decisions across supply chain operations. 
+
+This project integrates the strengths of Excel, Power Query, and Power BI to build a scalable and insightful analytics solution.
+
+## Tech Stack
+- **Microsoft Excel + Power Query**: Initial data preparation and structuring, data cleansing, profiling, and transformation;
+- **Microsoft Power BI**: Semantic modeling, interactive dashboard, KPI tracking, and dynamic visualizations.
+
+## Project Components
+
+| Stage                  | Tools Used                        | Folders                                |
+|------------------------|-----------------------------------|----------------------------------------|
+| Data Processing        | MS Excel + Power Query               | `excel_powerquery/`                    |
+| Visualization          | MS Power BI                          | `powerbi_dashboard/`                   |
+| Reporting & Presentation | MS PowerPoint, PDF                 | `reports/`                             |
+
+<!--
 ## Objective
 
 Analyze supply chain performance using a real-world dataset. The project integrates Excel, Power Query, Power BI, Python automation, machine learning, and generative AI to deliver a complete analytics solution with actionable insights.
@@ -35,7 +54,6 @@ Analyze supply chain performance using a real-world dataset. The project integra
 - Customer Segments and Patterns;  
 - Order Volume Trends and Forecasting.
 
-<!--
 ## Key Insights
 
 - Late deliveries are mostly linked to Standard Class shipping from one specific warehouse;  
