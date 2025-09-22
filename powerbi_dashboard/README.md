@@ -2,5 +2,15 @@
 
 This folder contains visual documentation of the Power BI solution developed to analyze supply chain data. It includes:
 
-Semantic Model Screenshot: Illustration of the data model structure, including relationships, calculated columns, and measures used to support dynamic reporting;
-Interactive Dashboard Screenshots: Captures of dashboards that visualize key metrics and KPIs such as delivery performance, regional profitability, and customer segment trends.
+- **Semantic Model:** Visuals of the data model showing relationships, measures, and structure used for reporting.
+- **Paginated Dashboard:** Screenshots of interactive dashboards designed for print-ready reporting and detailed KPI tracking.
+
+## Dashboard Sections:
+
+- **Overview:** Summary of overall supply chain performance and orders geography;
+- **Logistics & Supply Chain:** Delivery metrics, shipping methods, and operational efficiency;
+- **Sales & Profitability:** Revenue trends, profit breakdowns, margin analysis, and the impact of discounts;
+- **Customer Analytics:** Segmentation, behavior patterns, and performance by customer type;
+- **Product Analytics:** Performance across product categories, including the impact of price segments on sales and profit;
+- **Orders Geography & Risk Analysis:** Regional order distribution and risk analysis;
+- **Supply Chain Performance:** Decomposition approach for analyzing late delivery and profit indicators.
