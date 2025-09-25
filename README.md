@@ -84,7 +84,7 @@ This project integrates the strengths of Excel, Power Query, and Power BI to bui
 - Western Europe is a high-risk region for delivery delays;
 - February and March show operational anomalies requiring deeper investigation.
 
-### Next Steps: Advanced Analytics with Python & AI
+## Next Steps: Advanced Analytics with Python & AI
 
 The next stages of this project will dive deeper using:
 
