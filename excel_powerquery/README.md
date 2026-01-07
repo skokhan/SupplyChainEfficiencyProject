@@ -8,3 +8,4 @@ This folder contains a series of screenshots documenting the end-to-end process 
 - **Data Transformation:** Using Power Query to filter, sort, and reshape the data for better usability;
 - **Data Cleansing:** Detecting and correcting missing data, null entries, and formatting inconsistencies;
 - **Data Analysis:** Investigating patterns, anomalies, and trends in date fields to ensure completeness and accuracy.
+
