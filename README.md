@@ -98,7 +98,7 @@ The next stages of this project will dive deeper using:
 | Stage                  | Tools Used                        | Folders                                |
 |------------------------|-----------------------------------|----------------------------------------|
 | Data Processing        | MS Excel + Power Query               | `excel_powerquery/`                    |
-| Dashboard & Visualization | MS Power BI                          | `powerbi_dashboard/`                   |
+| Report & Visualization | MS Power BI                          | `powerbi_report/`                   |
 | Reporting & Presentation | MS PowerPoint, PDF                 | `reports/`                             |
 
 <!--
@@ -109,7 +109,7 @@ Analyze supply chain performance using a real-world dataset. The project integra
 ## Tech Stack
 
 - **Microsoft Excel + Power Query**: Data cleansing, transformation;  
-- **Microsoft Power BI**: Interactive dashboards and KPI tracking;  
+- **Microsoft Power BI**: Interactive report and KPI tracking;  
 - **Python (pandas, matplotlib, scikit-learn)**: Data automation, analysis, machine learning;  
 - **Jupyter Notebooks**: Exploratory Data Analysis (EDA), visualizations;  
 - **Microsoft Copilot(Power BI), OpenAI API (LLM)**: Automated insight generation and reporting;  
@@ -120,7 +120,7 @@ Analyze supply chain performance using a real-world dataset. The project integra
 | Stage                  | Tools Used                        | Folders                                |
 |------------------------|-----------------------------------|----------------------------------------|
 | Data Processing        | MS Excel + Power Query               | `excel_powerquery/`                    |
-| Visualization          | MS Power BI                          | `powerbi_dashboard/`                   |
+| Visualization          | MS Power BI                          | `powerbi_report/`                   |
 | Automation             | Python (pandas, openpyxl)         | `automation/`                          |
 | EDA & KPIs             | Jupyter Notebooks                 | `notebooks/`                           |
 | Machine Learning       | scikit-learn, XGBoost, Prophet    | `ml/`                                  |
@@ -167,9 +167,9 @@ Analyze supply chain performance using a real-world dataset. The project integra
 |----------------------|-----------------------------------------------|
 | `data/`              | Raw and cleaned datasets                      |
 | `excel_powerquery/`  | Power Query workbook                          |
-| `powerbi_dashboard/` | Interactive dashboard file (.pbix)            |
+| `powerbi_report/` | Interactive report file (.pbix)            |
 | `notebooks/`         | Data analysis and visualization notebooks     |
-| `automation/`        | Python scripts for ETL and dashboard refresh  |
+| `automation/`        | Python scripts for ETL and report refresh  |
 | `ml/`                | Machine learning models and predictions       |
 | `gen_ai/`            | Insight generation scripts and prompts        |
 | `reports/`           | Final report, slides, screenshots             |
