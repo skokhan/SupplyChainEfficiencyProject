@@ -9,7 +9,7 @@ This project integrates the strengths of Excel, Power Query, and Power BI to bui
 ## Tech Stack
 
 - **Microsoft Excel + Power Query**: Initial data preparation and structuring, data cleansing, profiling, and transformation;
-- **Microsoft Power BI**: Semantic modeling, interactive dashboard, KPI tracking, and dynamic visualizations.
+- **Microsoft Power BI**: Semantic modeling, interactive report, KPI tracking, and dynamic visualizations.
 
 ## Key Metrics Analyzed
 
