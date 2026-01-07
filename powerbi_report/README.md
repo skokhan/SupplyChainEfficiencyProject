@@ -1,11 +1,11 @@
-# Power BI Dashboard
+# Power BI Report
 
 This folder contains visual documentation of the Power BI solution developed to analyze supply chain data. It includes:
 
 - **Semantic Model:** Visual of the data model showing relationships, measures, and structure used for reporting.
-- **Paginated Dashboard:** Screenshots of interactive dashboards designed for print-ready reporting and detailed KPI tracking.
+- **Paginated Report:** Screenshots of interactive report designed for print-ready reporting and detailed KPI tracking.
 
-## Dashboard Sections:
+## Report Sections:
 
 - **Overview:** Summary of overall supply chain performance and orders geography;
 - **Logistics & Supply Chain:** Delivery metrics, shipping methods, and operational efficiency;
