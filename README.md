@@ -4,13 +4,6 @@
 
 This project delivers a comprehensive, data-driven analysis of global supply chain performance using a real-world dataset. It provides actionable insights into logistics performance, sales trends, customer behavior, and operational risks — empowering data-driven decisions across supply chain operations. 
 
-This project integrates the strengths of Excel, Power Query, and Power BI to build a scalable and insightful analytics solution.
-
-## Tech Stack
-
-- **Microsoft Excel + Power Query**: Initial data preparation and structuring, data cleansing, profiling, and transformation;
-- **Microsoft Power BI**: Semantic modeling, interactive report, KPI tracking, and dynamic visualizations.
-
 ## Key Metrics Analyzed
 
 ### Supply Chain & Logistics:
