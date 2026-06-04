@@ -91,8 +91,8 @@ The next stages of this project will dive deeper using:
 | Stage                  | Tools Used                        | Folders                                |
 |------------------------|-----------------------------------|----------------------------------------|
 | Data Processing        | Power Query                       | `powerquery/`                    |
-| Report & Visualization | MS Power BI                       | `powerbi_report/`                   |
-| Reporting & Presentation | MS PowerPoint, PDF              | `reports/`                             |
+| Report & Visualization | Power BI                       | `powerbi_report/`                   |
+| Reporting & Presentation | PowerPoint, PDF              | `reports/`                             |
 
 <!--
 ## Objective
