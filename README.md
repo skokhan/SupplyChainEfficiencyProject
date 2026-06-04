@@ -90,9 +90,9 @@ The next stages of this project will dive deeper using:
 
 | Stage                  | Tools Used                        | Folders                                |
 |------------------------|-----------------------------------|----------------------------------------|
-| Data Processing        | Microsoft Fabric + Power Query       | `powerquery/`                    |
-| Report & Visualization | MS Power BI                          | `powerbi_report/`                   |
-| Reporting & Presentation | MS PowerPoint, PDF                 | `reports/`                             |
+| Data Processing        | Power Query                       | `powerquery/`                    |
+| Report & Visualization | MS Power BI                       | `powerbi_report/`                   |
+| Reporting & Presentation | MS PowerPoint, PDF              | `reports/`                             |
 
 <!--
 ## Objective
